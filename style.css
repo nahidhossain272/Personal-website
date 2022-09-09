@@ -1,0 +1,122 @@
+body{
+   margin:0;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+h1{
+    color:crimson;
+   
+}
+h3{
+    font-size:120%;
+   
+   
+}
+.facebook{
+    text-decoration:none;
+    background-color: darkorange;
+    border-radius: 7px;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin:left;
+    padding-left:10%;
+    
+}
+.half-width img{
+    width:400px;
+    height:400px;
+    padding-left:60%;
+    margin:5%
+    
+}
+.header{
+    background-image:url("image/header-bg.png");
+    background-repeat:no-repeat;
+    background-position:left;
+    float:left;
+    
+}
+.single-experience img{
+    width:400px;
+    height:400px;
+    padding-left:2%;
+    float:left;
+    margin-top:40px;;
+}
+.single-experience{
+    width:40%;
+    padding-left:10%;
+    margin-top:40px;
+}
+.Youtube{
+    text-decoration: none;
+    background-color: darkorange;
+    border-radius:7px;
+}
+.biography{
+    background-image: url("image/biography-bg.png");
+    background-repeat:no-repeat;
+    float:left;
+}
+.place{
+    width:75%;
+    text-align:center;
+    float:left;
+    margin-top:40px;
+    
+}
+.place img{
+    width:20%;
+    height:20%;
+    float:left;
+    padding-left:2%;
+}
+.latest-work{
+    background-image:url("image/latest-work-bg.png");
+    background-repeat:no-repeat;
+    background-position:right;
+}
+.space{
+    width:75%;
+    text-align:center;
+    float:left;
+    margin-top:50px;
+}
+#name{
+    margin-top:5%;
+}
+h4{
+    color:dimgray;
+}
+#awesome{
+    margin-top: 10%;
+    color: aliceblue;
+}
+#nice{
+    color:aliceblue;
+}
+.last{
+    background-color: deeppink;
+    text-align:absolute;
+    width:50%;
+    float:left;
+    margin-top:50px;
+    border-radius:2%;
+    margin-left:25%;
+    padding-left: 2%;
+}
+footer p{
+    text-align:center;
+    font-size: 12px;
+    float:left;
+    margin-top: 8%;
+    padding-left:40%;
+}
+.footer{
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+
